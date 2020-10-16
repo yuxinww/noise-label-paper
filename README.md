@@ -86,8 +86,5 @@
 
 ## 其他
 
-<<<<<<< HEAD
+
 - [x] Robust deep supervised hashing for image retrieval
-=======
-- [x] Robust deep supervised hashing for image retrieval
->>>>>>> eeab672d5b607460b9b8bf2c753bbeabdacc746c
