@@ -88,3 +88,7 @@
 
 
 - [x] Robust deep supervised hashing for image retrieval
+
+## ICLR 2021
+- [ ] NOISE-ROBUST CONTRASTIVE LEARNING [pdf](https://openreview.net/pdf?id=D1E1h-K3jso)
+- [ ] ROBUST CURRICULUM LEARNING: FROM CLEAN LABEL DETECTION TO NOISY LABEL SELF-CORRECTION [pdf](https://openreview.net/pdf?id=lmTWnm3coJJ)
